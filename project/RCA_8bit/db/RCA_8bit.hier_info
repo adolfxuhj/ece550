@@ -1,0 +1,117 @@
+|RCA_8bit
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+a[3] => a[3].IN1
+a[4] => a[4].IN1
+a[5] => a[5].IN1
+a[6] => a[6].IN1
+a[7] => a[7].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+b[3] => b[3].IN1
+b[4] => b[4].IN1
+b[5] => b[5].IN1
+b[6] => b[6].IN1
+b[7] => b[7].IN1
+ci => ci.IN1
+Sum[0] <= adder:a0.Sum
+Sum[1] <= adder:a1.Sum
+Sum[2] <= adder:a2.Sum
+Sum[3] <= adder:a3.Sum
+Sum[4] <= adder:a4.Sum
+Sum[5] <= adder:a5.Sum
+Sum[6] <= adder:a6.Sum
+Sum[7] <= adder:a7.Sum
+Cout <= adder:a7.Cout
+
+
+|RCA_8bit|adder:a0
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a1
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a2
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a3
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a4
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a5
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a6
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|RCA_8bit|adder:a7
+A => X1.IN0
+A => A1.IN0
+B => X1.IN1
+B => A1.IN1
+Cin => A2.IN1
+Cin => comb.IN1
+Sum <= comb.DB_MAX_OUTPUT_PORT_TYPE
+Cout <= comb.DB_MAX_OUTPUT_PORT_TYPE
+
+

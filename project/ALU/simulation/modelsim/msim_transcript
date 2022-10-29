@@ -1,0 +1,125 @@
+# Reading C:/intelFPGA/17.0/modelsim_ase/tcl/vsim/pref.tcl
+# do alu_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA/17.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/alu.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:36 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/alu.v 
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# End time: 17:17:36 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/add_subtract.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:36 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/add_subtract.v 
+# -- Compiling module add_subtract
+# 
+# Top level modules:
+# 	add_subtract
+# End time: 17:17:36 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:36 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v 
+# -- Compiling module CSA_32bit
+# 
+# Top level modules:
+# 	CSA_32bit
+# End time: 17:17:36 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:36 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v 
+# -- Compiling module CSA_16bit
+# 
+# Top level modules:
+# 	CSA_16bit
+# End time: 17:17:36 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:37 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v 
+# -- Compiling module RCA_8bit
+# 
+# Top level modules:
+# 	RCA_8bit
+# End time: 17:17:37 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/adder.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:37 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/adder.v 
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# End time: 17:17:37 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU {C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:17:37 on Sep 23,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU" C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v 
+# -- Compiling module alu_tb
+# 
+# Top level modules:
+# 	alu_tb
+# End time: 17:17:37 on Sep 23,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  alu_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" alu_tb 
+# Start time: 17:17:37 on Sep 23,2022
+# Loading work.alu_tb
+# Loading work.alu
+# Loading work.add_subtract
+# Loading work.CSA_32bit
+# Loading work.CSA_16bit
+# Loading work.RCA_8bit
+# Loading work.adder
+# ** Warning: (vsim-3017) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v(13): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/add_1/csa_1/csa15_0 File: C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v
+# ** Warning: (vsim-3722) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v(13): [TFMPC] - Missing connection for port 'overflow'.
+# ** Warning: (vsim-3017) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v(13): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/add_1/csa_1/csa15_0/rca7_0 File: C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v
+# ** Warning: (vsim-3722) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v(13): [TFMPC] - Missing connection for port 'overflow'.
+# ** Warning: (vsim-3017) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v(13): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/add_1/csa_1/csa31_16_0/rca7_0 File: C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v
+# ** Warning: (vsim-3722) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v(13): [TFMPC] - Missing connection for port 'overflow'.
+# ** Warning: (vsim-3017) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v(13): [TFMPC] - Too few port connections. Expected 6, found 5.
+#    Time: 0 ps  Iteration: 0  Instance: /alu_tb/alu_ut/add_1/csa_1/csa31_16_1/rca7_0 File: C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v
+# ** Warning: (vsim-3722) C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v(13): [TFMPC] - Missing connection for port 'overflow'.
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: adolf  Hostname: LAPTOP-TLAM8KQ7  ProcessID: 20220
+#           Attempting to use alternate WLF file "./wlftams9tt".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftams9tt
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#                    0 << Starting the Simulation >>
+# The simulation completed without errors
+# ** Note: $stop    : C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v(51)
+#    Time: 1560 ns  Iteration: 1  Instance: /alu_tb
+# Break in Module alu_tb at C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v line 51
+# End time: 17:21:02 on Sep 23,2022, Elapsed time: 0:03:25
+# Errors: 0, Warnings: 10

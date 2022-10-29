@@ -1,0 +1,41 @@
+module RCA_8bit(
+	input [7:0] a,
+	input [7:0] b,
+	input ci,
+	output[7:0] Sum,
+	output[7:0] Cout,
+	wire[7:0] count
+	);
+
+	add u0(a[0],b[0],ci,Sum[0],count[0]);
+	add u1(a[1],b[1],count[0],Sum[1],count[1]);
+	add u2(a[2],b[2],count[1],Sum[2],count[2]);
+	add u3(a[3],b[3],count[2],Sum[3],count[3]);
+	add u4(a[4],b[4],count[3],Sum[4],count[4]);
+	add u5(a[5],b[5],count[4],Sum[5],count[5]);
+	add u6(a[6],b[6],count[5],Sum[6],count[6]);
+	add u7(a[7],b[7],count[6],Sum[7],count[7]);
+	
+	assign Cout = count[7];	
+	
+endmodule
+
+module add(A, B, Cin, Sum, Cout);
+	input A, B, Cin;
+	output Sum, Cout;
+	
+	wire X1;
+	xor (X1, A, B);
+	
+	wire A1, A2;
+	and (A1, A, B);
+	and (A2, X1, Cin);
+	
+	wire F1, F2;
+	xor (F1, X1, Cin);
+	or (F2, A1, A2);
+	
+	assign Sum = F1;
+	assign Cout = F2;
+	
+endmodule

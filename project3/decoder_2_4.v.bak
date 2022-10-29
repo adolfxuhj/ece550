@@ -1,0 +1,6 @@
+module decoder_2_4(
+	input [1:0] d,
+	output [3:0] out
+	);
+
+endmodule

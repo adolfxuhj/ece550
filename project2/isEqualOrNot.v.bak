@@ -1,0 +1,5 @@
+module isEqualOrNot(
+	input [31:0] res_sub,
+	output out,
+	);
+	

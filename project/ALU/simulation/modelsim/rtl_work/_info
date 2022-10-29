@@ -1,0 +1,167 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/adolf/Desktop/master/550D/project/ALU/simulation/modelsim
+vadd_subtract
+Z1 !s110 1663967856
+!i10b 1
+!s100 =aEgX`6HRYC[]d8d9Z]in1
+IQ<bQ=98SC@;Edab7<f][W3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1663957856
+8C:/Users/adolf/Desktop/master/550D/project/ALU/add_subtract.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/add_subtract.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1663967856.000000
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/add_subtract.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/add_subtract.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project/ALU
+Z7 tCvgOpt 0
+vadder
+Z8 !s110 1663967857
+!i10b 1
+!s100 <c2iUmP5f`DNhML50E=LF2
+IIEZazQWC?gG[fA71I=9C01
+R2
+R0
+w1663957951
+8C:/Users/adolf/Desktop/master/550D/project/ALU/adder.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1663967857.000000
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/adder.v|
+!i113 1
+R5
+R6
+R7
+valu
+R1
+!i10b 1
+!s100 adT0l@0glMmKzIEfWc[WF1
+I^@8@5`jAXTKbY`o@TFHKZ3
+R2
+R0
+w1663958022
+8C:/Users/adolf/Desktop/master/550D/project/ALU/alu.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/alu.v|
+!i113 1
+R5
+R6
+R7
+valu_tb
+R8
+!i10b 1
+!s100 _VBMEf4SJmm`BE`nXKY=C0
+IBM2[Q8AgO?3XDS4J?5nbX2
+R2
+R0
+w1663628250
+8C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/alu_tb.v|
+!i113 1
+R5
+R6
+R7
+vCSA_16bit
+R1
+!i10b 1
+!s100 ?FgEYZ=]HGj_gR^ENYhe81
+Ic=6A:?BGkJKZ_K]l^0FLZ1
+R2
+R0
+w1663957911
+8C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_16bit.v|
+!i113 1
+R5
+R6
+R7
+n@c@s@a_16bit
+vCSA_32bit
+R1
+!i10b 1
+!s100 Q9;iTCTl:BUg[kZPMUB5@0
+IeWf?lb7m=zfkHQW_GRQL71
+R2
+R0
+w1663957882
+8C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/CSA_32bit.v|
+!i113 1
+R5
+R6
+R7
+n@c@s@a_32bit
+vRCA_8bit
+R8
+!i10b 1
+!s100 Y`U0Mo:iSiWk92MHVmCVA0
+I=[?`9f`Elh=95DV]XmOi71
+R2
+R0
+w1663957934
+8C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v
+FC:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project/ALU|C:/Users/adolf/Desktop/master/550D/project/ALU/RCA_8bit.v|
+!i113 1
+R5
+R6
+R7
+n@r@c@a_8bit

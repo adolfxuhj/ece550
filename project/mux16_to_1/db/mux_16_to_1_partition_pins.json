@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out",
+					"strict" : false
+				},
+				{
+					"name" : "d22",
+					"strict" : false
+				},
+				{
+					"name" : "s2",
+					"strict" : false
+				},
+				{
+					"name" : "d26",
+					"strict" : false
+				},
+				{
+					"name" : "s1",
+					"strict" : false
+				},
+				{
+					"name" : "d18",
+					"strict" : false
+				},
+				{
+					"name" : "d30",
+					"strict" : false
+				},
+				{
+					"name" : "s3",
+					"strict" : false
+				},
+				{
+					"name" : "d25",
+					"strict" : false
+				},
+				{
+					"name" : "d21",
+					"strict" : false
+				},
+				{
+					"name" : "d17",
+					"strict" : false
+				},
+				{
+					"name" : "d29",
+					"strict" : false
+				},
+				{
+					"name" : "s4",
+					"strict" : false
+				},
+				{
+					"name" : "d20",
+					"strict" : false
+				},
+				{
+					"name" : "d24",
+					"strict" : false
+				},
+				{
+					"name" : "d16",
+					"strict" : false
+				},
+				{
+					"name" : "d28",
+					"strict" : false
+				},
+				{
+					"name" : "d27",
+					"strict" : false
+				},
+				{
+					"name" : "d23",
+					"strict" : false
+				},
+				{
+					"name" : "d19",
+					"strict" : false
+				},
+				{
+					"name" : "d31",
+					"strict" : false
+				},
+				{
+					"name" : "d10",
+					"strict" : false
+				},
+				{
+					"name" : "d9",
+					"strict" : false
+				},
+				{
+					"name" : "d8",
+					"strict" : false
+				},
+				{
+					"name" : "d11",
+					"strict" : false
+				},
+				{
+					"name" : "d5",
+					"strict" : false
+				},
+				{
+					"name" : "d6",
+					"strict" : false
+				},
+				{
+					"name" : "d4",
+					"strict" : false
+				},
+				{
+					"name" : "d7",
+					"strict" : false
+				},
+				{
+					"name" : "d2",
+					"strict" : false
+				},
+				{
+					"name" : "d1",
+					"strict" : false
+				},
+				{
+					"name" : "d0",
+					"strict" : false
+				},
+				{
+					"name" : "d3",
+					"strict" : false
+				},
+				{
+					"name" : "d13",
+					"strict" : false
+				},
+				{
+					"name" : "d14",
+					"strict" : false
+				},
+				{
+					"name" : "d12",
+					"strict" : false
+				},
+				{
+					"name" : "d15",
+					"strict" : false
+				},
+				{
+					"name" : "s0",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

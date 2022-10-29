@@ -1,0 +1,8 @@
+module decoder_3_8(
+	input [2:0] d,
+	output [7:0] out
+	);
+	
+	
+	
+endmodule

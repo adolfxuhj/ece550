@@ -1,0 +1,5 @@
+module write_port(
+	input [4:0] ctrl_writeReg,
+	input ctrl_writeEnable,
+	output sel
+	);

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Sep 21 17:37:52 2022
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : mux_16_to_1
+Top-level Entity Name : mux_16_to_1
+Family : Cyclone IV E
+Total logic elements : 21
+    Total combinational functions : 21
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

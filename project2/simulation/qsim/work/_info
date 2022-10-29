@@ -1,0 +1,182 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/adolf/Desktop/master/550D/project2/simulation/qsim
+valu
+Z1 !s110 1664509956
+!i10b 1
+!s100 i[b;98^X>JNDLTkFgnF_51
+IQ6eETjF[jICE??0<lo1C11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1664509956
+Z3 8alu.vo
+Z4 Falu.vo
+Z5 L0 32
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1664509956.000000
+Z8 !s107 alu.vo|
+Z9 !s90 -work|work|alu.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+valu_vlg_vec_tst
+R1
+!i10b 1
+!s100 Y9??<dMiFjSBAhYW@j_V82
+IQMkCHcoL@bdUHSDl20QB;2
+R2
+R0
+w1664509955
+Z12 8Waveform.vwf.vt
+Z13 FWaveform.vwf.vt
+Z14 L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform.vwf.vt|
+Z15 !s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11
+vARS
+!s110 1664392342
+!i10b 1
+!s100 U=8@IeW2e=RU0hB<1TAIl0
+I5;l^IBXYZ=Y[]6:Fb?f@C2
+R2
+R0
+w1664392342
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z16 !s108 1664392342.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@a@r@s
+vARS_vlg_vec_tst
+!s110 1664392343
+!i10b 1
+!s100 XIRYN59TYFOeI0DPWV<343
+IP3NkodGYPa?Ra:5@T`V[>1
+R2
+R0
+w1664392341
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+R14
+R6
+r1
+!s85 0
+31
+R16
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 1
+R10
+R11
+n@a@r@s_vlg_vec_tst
+vLLS
+!s110 1664389382
+!i10b 1
+!s100 PaV4UC8@?h^7Z>z>=?E]`2
+I;i0<K86TJJ=53[7b03XiF2
+R2
+R0
+w1664389382
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z17 !s108 1664389382.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@l@l@s
+vLLS_vlg_vec_tst
+!s110 1664389383
+!i10b 1
+!s100 N3o`OP_DnDmZ_03PB@LUD1
+IQQezWR?fNQGzQ8j5Tc3>n0
+R2
+R0
+w1664389381
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+R14
+R6
+r1
+!s85 0
+31
+R17
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11
+n@l@l@s_vlg_vec_tst
+vmux_8_to_1
+!s110 1664340120
+!i10b 1
+!s100 OG;VR=?>RDLY8H]iZkz[b0
+Ie2DQGVbkj:Ma[KWNd@Id;0
+R2
+R0
+w1664340120
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z18 !s108 1664340120.000000
+R8
+R9
+!i113 1
+R10
+R11
+vmux_8_to_1_vlg_vec_tst
+!s110 1664340121
+!i10b 1
+!s100 ?j17Gj[XRCDhgldUWoz@`3
+I<bSB]ZWKa7<CIn=KCkdmA2
+R2
+R0
+w1664340119
+R12
+R13
+R14
+R6
+r1
+!s85 0
+31
+R18
+!s107 Waveform.vwf.vt|
+R15
+!i113 1
+R10
+R11

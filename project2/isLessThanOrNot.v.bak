@@ -1,0 +1,8 @@
+module isLessThan(
+	input A,
+	input B,
+	input R,
+	output out
+	);
+	
+endmodule

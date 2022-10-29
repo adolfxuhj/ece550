@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/adolf/Desktop/master/550D/project3/simulation/modelsim
+vdecoder_2_4
+Z1 !s110 1665797785
+!i10b 1
+!s100 ZECMI4jUjb2a[d>mPWzZb3
+I1cmfk5B[`_2K[DKMfgFMo0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665022853
+8C:/Users/adolf/Desktop/master/550D/project3/decoder_2_4.v
+FC:/Users/adolf/Desktop/master/550D/project3/decoder_2_4.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1665797785.000000
+!s107 C:/Users/adolf/Desktop/master/550D/project3/decoder_2_4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/decoder_2_4.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/adolf/Desktop/master/550D/project3
+Z7 tCvgOpt 0
+vdecoder_3_8
+R1
+!i10b 1
+!s100 5`8Ch1QU`TILal[zgSiGn1
+IPmg=9X4N=@9Q0EcJS4Q4R0
+R2
+R0
+w1665024740
+8C:/Users/adolf/Desktop/master/550D/project3/decoder_3_8.v
+FC:/Users/adolf/Desktop/master/550D/project3/decoder_3_8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/decoder_3_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/decoder_3_8.v|
+!i113 1
+R5
+R6
+R7
+vdecoder_5_32
+R1
+!i10b 1
+!s100 V<XX6l6?n`L?2f1;O?3P31
+IO][0@5B`Da]?dn>43nEe20
+R2
+R0
+w1665023924
+8C:/Users/adolf/Desktop/master/550D/project3/decoder_5_32.v
+FC:/Users/adolf/Desktop/master/550D/project3/decoder_5_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1665797784.000000
+!s107 C:/Users/adolf/Desktop/master/550D/project3/decoder_5_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/decoder_5_32.v|
+!i113 1
+R5
+R6
+R7
+vmy_dffe
+R1
+!i10b 1
+!s100 1Y7i2<[=1UGl^i<zF^0331
+I_dcAlM78>TFE;oz[dcc5O3
+R2
+R0
+w1665757344
+8C:/Users/adolf/Desktop/master/550D/project3/dffe.v
+FC:/Users/adolf/Desktop/master/550D/project3/dffe.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/dffe.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/dffe.v|
+!i113 1
+R5
+R6
+R7
+vread_port
+R1
+!i10b 1
+!s100 5BE_0d1WP4hog<dB47nL72
+II968GSS9?OK]OiAm1Im@z2
+R2
+R0
+w1665061156
+8C:/Users/adolf/Desktop/master/550D/project3/read_port.v
+FC:/Users/adolf/Desktop/master/550D/project3/read_port.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/read_port.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/read_port.v|
+!i113 1
+R5
+R6
+R7
+vregfile
+R1
+!i10b 1
+!s100 WHNe[GLzDVI?]DX8CC75K0
+ISGEl[eO<@C88fhbUNDg572
+R2
+R0
+w1665758121
+8C:/Users/adolf/Desktop/master/550D/project3/regfile.v
+FC:/Users/adolf/Desktop/master/550D/project3/regfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/regfile.v|
+!i113 1
+R5
+R6
+R7
+vregfile_tb
+Z8 !s110 1665797786
+!i10b 1
+!s100 f2]0a[>BNV@ZDjRa]BkJF0
+IVc[_RVUgmSfIGN4QhKMHR0
+R2
+R0
+w1665756869
+8C:/Users/adolf/Desktop/master/550D/project3/regfile_tb.v
+FC:/Users/adolf/Desktop/master/550D/project3/regfile_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1665797786.000000
+!s107 C:/Users/adolf/Desktop/master/550D/project3/regfile_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/regfile_tb.v|
+!i113 1
+R5
+R6
+R7
+vregister
+R8
+!i10b 1
+!s100 lBzngEXHc`5SLLX7C:4kQ2
+ILMBLmHfeg>hgDI0YdW@6K1
+R2
+R0
+w1665022250
+8C:/Users/adolf/Desktop/master/550D/project3/register.v
+FC:/Users/adolf/Desktop/master/550D/project3/register.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/register.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/register.v|
+!i113 1
+R5
+R6
+R7
+vtristate
+R1
+!i10b 1
+!s100 OPgdK:2NWoK5mmS29OaaT2
+Ib0=n9P>7eA?CIe?<E`oi`2
+R2
+R0
+w1665797715
+8C:/Users/adolf/Desktop/master/550D/project3/tristate.v
+FC:/Users/adolf/Desktop/master/550D/project3/tristate.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/tristate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/tristate.v|
+!i113 1
+R5
+R6
+R7
+vwrite_port
+R1
+!i10b 1
+!s100 =DUMG9BL];niz:=eGUj6<0
+IZ9VS0L[5[5a=]7[5ifWMb2
+R2
+R0
+w1665756466
+8C:/Users/adolf/Desktop/master/550D/project3/write_port.v
+FC:/Users/adolf/Desktop/master/550D/project3/write_port.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/adolf/Desktop/master/550D/project3/write_port.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/adolf/Desktop/master/550D/project3|C:/Users/adolf/Desktop/master/550D/project3/write_port.v|
+!i113 1
+R5
+R6
+R7

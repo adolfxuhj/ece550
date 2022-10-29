@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at add_substract.v(5): object "Cout" differs only in case from object "cout" in the same scope File: C:/Users/adolf/Desktop/master/550D/project2/add_substract.v Line: 5
+Info (10281): Verilog HDL Declaration information at RCA_8bit.v(6): object "Cout" differs only in case from object "cout" in the same scope File: C:/Users/adolf/Desktop/master/550D/project2/RCA_8bit.v Line: 6
